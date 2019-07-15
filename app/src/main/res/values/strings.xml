@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">retrofit</string>
+    <string name="userId">user id</string>
+    <string name="postId">post id</string>
+    <string name="title">title</string>
+    <string name="body">body</string>
+</resources>
